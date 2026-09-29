@@ -144,6 +144,6 @@ The dashboard helps users understand:
 
 ## 👨‍💻 Author
 
-**Samrabinson P**
+**RAKSHANA**
 
 BCA Student | Aspiring Full Stack Developer | Data Analytics Enthusiast

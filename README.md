@@ -83,20 +83,7 @@ Total Quantity = SUM(Sales[Quantity])
 Total Orders = DISTINCTCOUNT(Sales[Order ID])
 ```
 
-## 📸 Dashboard Preview
 
-![Sales Dashboard](Visualization.png)
-
-## 📂 Project Files
-
-```text
-Sales-Dashboard-PowerBI/
-│
-├── Sales Dashboard.pbix
-├── sales_data.csv
-├── dashboard.png
-└── README.md
-```
 
 ## 🎯 Project Objectives
 
@@ -146,4 +133,4 @@ The dashboard helps users understand:
 
 **RAKSHANA**
 
-BCA Student | Aspiring Full Stack Developer | Data Analytics Enthusiast
+
